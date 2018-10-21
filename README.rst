@@ -1,4 +1,6 @@
-# instagagefluence
+InstaGageFluence (IGF)
+----------------------
+
 Python Instagram Engagement Influencer Bot
 
 This is a personal bot to experiment with discovering others with similar
