@@ -108,3 +108,4 @@ venv.bak/
 
 # Package Specific
 igf.yaml
+*.data

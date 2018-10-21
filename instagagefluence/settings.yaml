@@ -1,2 +1,4 @@
 ---
-foo: bar
+username: None
+password: None
+data_prefix: ''
